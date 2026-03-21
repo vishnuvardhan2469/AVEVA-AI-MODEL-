@@ -50,3 +50,22 @@ The solution consists of four main components designed to solve the problem of b
    ```
 
 A browser window will automatically open with the Interactive Optimization Engine UI at `http://localhost:8501`.
+
+## Application Interfaces
+
+The following screenshots demonstrate the core functionalities, agentic capabilities, and regulatory compliance of the optimization engine:
+
+### 1. Global Optimization Setup
+![Global Optimization Setup](images/setup.png)
+
+### 2. Predicted Outcomes & Business Impact
+![Predicted Outcomes](images/outcomes.png)
+
+### 3. Explainable AI (XAI) Analysis
+![Explainable AI (XAI)](images/xai_analysis.png)
+
+### 4. 3D Pareto Frontier (Global Topography)
+![3D Pareto Frontier](images/pareto_frontier.png)
+
+### 5. Agentic Workflow & Regulatory Compliance
+![Agent Workflow](images/agent_workflow.png)
