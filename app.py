@@ -214,7 +214,7 @@ def load_engine(cache_buster=1):
         st.error(f"Error loading optimization engine: {e}")
         return None
 
-engine = load_engine(cache_buster=2)
+engine = load_engine(cache_buster=3)
 
 if not engine:
     st.warning("Please ensure the Surrogate Model is trained.")
