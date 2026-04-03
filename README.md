@@ -45,8 +45,23 @@ The solution consists of four core micro-components designed to solve non-linear
 3. A browser window will automatically launch the **Interactive Optimization Dashboard** at `http://localhost:8501`.
 
 ## 📸 Core Capabilities
-- **Global Optimization Hub**: Set priorities for energy, quality, or yield to drive the optimization engine.
-- **Predictive Impact Analysis**: Review projected outcomes against baseline performance and monitor total order carbon avoidance.
-- **Explainable AI (XAI)**: Visualize SHAP value relative feature importance dynamically.
-- **3D Pareto Frontier**: Map the "Golden Signature" inside a multi-dimensional topography cloud of simulated outcomes.
-- **Agentic Workflows**: Auto-calculate compliance checking, track predictions, and print PDF executive reports for production runs.
+
+### 1. Global Optimization Hub
+Set priorities for energy, quality, or yield to drive the optimization engine.
+![Global Optimization Hub](images/setup.png)
+
+### 2. Predictive Impact Analysis
+Review projected outcomes against baseline performance and monitor total order carbon avoidance.
+![Predictive Impact Analysis](images/outcomes.png)
+
+### 3. Explainable AI (XAI)
+Visualize SHAP value relative feature importance dynamically.
+![Explainable AI (XAI)](images/xai_analysis.png)
+
+### 4. 3D Pareto Frontier
+Map the "Golden Signature" inside a multi-dimensional topography cloud of simulated outcomes.
+![3D Pareto Frontier](images/pareto_frontier.png)
+
+### 5. Agentic Workflows
+Auto-calculate compliance checking, track predictions, and print PDF executive reports for production runs.
+![Agentic Workflows](images/agent_workflow.png)
