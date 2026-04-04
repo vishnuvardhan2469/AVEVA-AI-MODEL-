@@ -8,7 +8,9 @@ This project provides an AI-driven framework that dynamically optimizes energy c
 ## 🎥 Live Demonstration
 Watch the system in action, dynamically balancing energy and quality parameters through our interactive agentic workflow:
 
-<video src="AVEVA-Final Live Demonstration .mp4" controls="controls" muted="muted" style="max-width:100%;"></video>
+[![AVEVA Golden Signature Engine - Live Demonstration](https://img.youtube.com/vi/NDFBfur7fH4/0.jpg)](https://youtu.be/NDFBfur7fH4)
+
+*(Click the image above to watch the full live demonstration on YouTube!)*
 
 ## 🧠 System Architecture
 The solution consists of four core micro-components designed to solve non-linear manufacturing problems:
